@@ -1,5 +1,5 @@
 # Automated Daily Threat Intelligence Feed
-*Last Updated: 2026-10-14 03:40:29 UTC*
+*Last Updated: 2026-10-15 03:21:30 UTC*
 
 This repository automatically tracks active botnet command-and-control malicious IP addresses using GitHub Actions cloud pipelines.
 
